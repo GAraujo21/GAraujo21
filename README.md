@@ -8,10 +8,11 @@ Eu tenho *23 anos* sou formado em Psicologia, mas estou me lançando nesse mundo
 
 📖 Estou aprendendo *Python e Java.*
 
-E é claro, a meta é encontrar um emprego na área 😁
+**E é claro, a meta é encontrar um emprego na área 😁**
 
-**Minhas redes sociais:** 
-**Linkedin:** https://www.linkedin.com/in/gabriel-ara%C3%BAjo-73943b268/
-**e-mail:** gabrielimaaraujo@gmail.com
+## Acesse minhas redes 😊
+
+### Linkedin: https://www.linkedin.com/in/gabriel-ara%C3%BAjo-73943b268/  
+### Instagram: http://instagram.com/gabrielflimaa_
 
 
