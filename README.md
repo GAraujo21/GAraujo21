@@ -4,9 +4,9 @@
 Eu tenho *23 anos* sou formado em Psicologia, mas estou me lançando nesse mundo da programação. É tudo muito novo, mas estou aberto a todas as experiências possíveis!
 
 
-🔍 Já me aventurei um pouco em **HTML** e **CSS**, **JavaScript**, e agora estou fazendo o curso **Next, da CESAR School** e o **Bootcamp Santader**. 
+🔍 Já me aventurei um pouco em **HTML** e **CSS**, **JavaScript**, e agora estou fazendo o curso **Next, da CESAR School** e o **Bootcamp Santander JAVA e Angular**. 
 
-📖 Estou aprendendo *Python e Java.*
+📖 O meu foco de estudo, hoje, é *Java.*
 
 **E é claro, a meta é encontrar um emprego na área 😁**
 
